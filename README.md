@@ -1,5 +1,5 @@
 <h3 align="center">Salut 👋, Je répond au nom d’Elvin Kyungu passionné par le développement web venant de la R.D.C.</h3>
-<h4>Je suis développeur web front-end, âgé de 21 ans, étudiant en deuxième bachelier informatique à l’Université de Lubumbashi au département de Mathématiques et       Informatique. </h4>
+<h4>Je suis développeur web front-end, âgé de 21 ans, étudiant en troisième bachelier informatique à l’Université de Lubumbashi au département de Mathématiques et       Informatique. </h4>
 
 - 🔭 je travaille actuellement sur [Monopole Global](https://monopoleglobal.com/)
 
