@@ -1,19 +1,17 @@
 <h3 align="center">Salut 👋, Je réponds au nom d’Elvin Kyungu passionné par le développement web front-end</h3>
-<h4>Je suis développeur web front-end, âgé de 21 ans, étudiant en troisième bachelier informatique à l’Université de Lubumbashi au département de Mathématiques et       Informatique. </h4>
-
-- 🔭 je travaille actuellement sur [Monopole Global](https://monopoleglobal.com/)
+<h4>Je suis développeur web front-end, âgé de 22 ans. </h4>
 
 - 🌱 j'apprends actuellement **Vue Js, et JavaScript avancé**
 
 - 👨‍💻 Tous mes projets sont disponible sur mes repository privés
 
-- 📝 J'écris régulièrement des articles sur [lushidev.hashnode.dev](lushidev.hashnode.dev)
+- 📝 J'écris régulièrement des articles sur [lushidev](lushidev.hashnode.dev)
 
 - 💬 Demande moi à propos de **CSS, HTML, JavaScript et Vue js**
 
 - 📫 Comment me joindre **elvinkyungu.75@gmail.com**
 
-- 📄 Connaître mes expériences [https://elvinkyungu.github.io/elvin/](https://elvinkyungu.github.io/elvin/)
+- 📄 Connaître mes expériences [Elvinkyungu.com](https://elvinkyungu.github.io/elvin/)
 
 - ⚡ Fait amusant **Je m'amuse beaucoup plus à reproduire ce que je vois sur les sites web ou réseaux sociaux**
 <br> <br>
