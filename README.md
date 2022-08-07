@@ -1,4 +1,4 @@
-<h3 align="center">Salut 👋, Je réponds au nom d’Elvin Kyungu passionné par le développement web front-end</h3>
+<h3 align="center">Salut 👋, Je réponds au nom d’Elvin Kyungu</h3>
 <h4>Je suis développeur web front-end, âgé de 22 ans. </h4>
 
 - 🌱 j'apprends actuellement **Vue Js, et JavaScript avancé**
