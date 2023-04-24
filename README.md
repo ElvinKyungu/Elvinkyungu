@@ -1,19 +1,6 @@
 # Elvin Kyungu
 
-[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-[![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://badge.fury.io/rb/colorls)
-[![CI](https://github.com/athityakumar/colorls/actions/workflows/ruby.yml/badge.svg)](https://github.com/athityakumar/colorls/actions/workflows/ruby.yml)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
-
-A Ruby script that colorizes the `ls` output with color and icons. Here are the screenshots of working example on an iTerm2 terminal (Mac OS), `oh-my-zsh` with `powerlevel9k` theme and `powerline nerd-font + awesome-config` font with the `Solarized Dark` color theme.
-
- ![image]([https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png](https://lh3.googleusercontent.com/pw/AJFCJaWwEX3TtlR_rJmiurdyoo_zDEa8JbX2b-l20whJDfjUaDrw-7j-a3wsA_5l6fkalG7stAHbRO9ekOunzQY5ybopr-cvWBxn5xGaDRZfr5AtcI-5voGfCel-p7eZsRALYiBoE22etYXlVHn46cNh27o=w1299-h866-s-no?authuser=0))
-
-*If you're interested in knowing the powerlevel9k configuration to get this prompt, have a look at [this gist](https://gist.github.com/athityakumar/1bd5e9e24cd2a1891565573a893993eb).*
-
-# Table of contents
 
 # Technologies
 
@@ -21,6 +8,8 @@ A Ruby script that colorizes the `ls` output with color and icons. Here are the 
 
 Man pages have been added. Checkout `man colorls`.
 
+[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 ### Flags
 
 - With `-1` : Lists one entry per line
