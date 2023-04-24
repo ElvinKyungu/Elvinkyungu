@@ -32,36 +32,5 @@ J'utilise les technos suivantes :
  </a>  
  <a href="https://vuejs.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>  </a>
- <a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/tailwindcss-original-wordmark.svg" alt="vuejs" width="40" height="40"/>  </a>
- <a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/git-original-wordmark.svg" alt="vuejs" width="40" height="40"/>  </a>
- <a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/github-original-wordmark.svg" alt="vuejs" width="40" height="40"/>  </a>
 </p>
 
-### Combination of flags
-
-- Using `--gs` with `-t` :
-
-  ![image](https://user-images.githubusercontent.com/17109060/32149076-8423c864-bd25-11e7-816e-8642643d2c27.png)
-
-- Using `--gs` with `-l` :
-
-  ![image](https://user-images.githubusercontent.com/17109060/32149078-899b0622-bd25-11e7-9810-d398eaa77e32.png)
-
-- Using `--sd` with `-l` and `-A` :
-
-  ![image](https://user-images.githubusercontent.com/17109060/32149084-9eb2a416-bd25-11e7-8fb7-a9d336c6e038.png)
-
-
-- ⚡ Fait amusant **Je m'amuse beaucoup plus à reproduire ce que je vois sur les sites web ou réseaux sociaux**
-<br> <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvinkyungu)](https://github.com/Elvinkyungu/github-readme-stats)
-<br>
-<br>
-
-Vous pouvez me contacter à travers les réseaux sociaux <br>
-<a href="https://web.facebook.com/elvin.kyungu.75">Facebook</a> 
-<a href=https://www.linkedin.com/in/elvin-kyungu-02015a21a/"">Linkedin</a> 
-<a href="Elvinkyungu.com">Elvinkyungu.com</a>
