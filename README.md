@@ -23,7 +23,7 @@ J'utilise les technos suivantes :
 
 <p align="left">  
  <a href="https://www.w3schools.com/css/" target="_blank"> 
-  [![forthebadge](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](http://forthebadge.com)  
+  
  </a> 
  <a href="https://www.w3.org/html/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a> 
@@ -33,18 +33,6 @@ J'utilise les technos suivantes :
  <a href="https://vuejs.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>  </a>
 </p>
-[(Back to top)](#table-of-contents)
-
-Man pages have been added. Checkout `man colorls`.
-
-
-[![forthebadge](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)](http://forthebadge.com)
-[![forthebadge](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](http://forthebadge.com)
-[![forthebadge](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](http://forthebadge.com)
-### Flags
-
-
-- With color options : `--light` or `--dark` can be passed as a flag, to choose the appropriate color scheme. By default, the dark color scheme is chosen. In order to tweak any color, read [Custom configurations](#custom-configurations).
 
 ### Combination of flags
 
