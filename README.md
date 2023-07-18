@@ -1,8 +1,8 @@
 ## hello everyone  👋
 ### I'm Elvin Kyungu
 
-- 🌴 I am a <b>frontend engineer</b> and the first <b><a href="https://www.awwwards.com/jury-member/ln-dev" target="_blank">Google DSC Lead at the University of Lubumbashi</a></b>
-- 📫 I am also the President Coordinator of the <b><a href="[https://www.awwwards.com/jury-member/ln-dev](https://www.linkedin.com/company/cercle-scientifique-math-info/mycompany/" target="_blank">Cercle Scientifique community</a></b>
+- 🌴 I am a <b>frontend engineer</b> and the first <b><a href="https://gdsc.community.dev/university-of-lubumbashi/" target="_blank">Google DSC Lead at the University of Lubumbashi</a></b>
+- 📫 I am also the President Coordinator of the <b><a href="https://www.linkedin.com/company/cercle-scientifique-math-info/mycompany/" target="_blank"> Cercle Scientifique community</a></b>
 
 ### Wakatime
 [![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
