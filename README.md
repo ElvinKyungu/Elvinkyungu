@@ -1,36 +1,22 @@
- ![image](https://lh3.googleusercontent.com/pw/AJFCJaWwEX3TtlR_rJmiurdyoo_zDEa8JbX2b-l20whJDfjUaDrw-7j-a3wsA_5l6fkalG7stAHbRO9ekOunzQY5ybopr-cvWBxn5xGaDRZfr5AtcI-5voGfCel-p7eZsRALYiBoE22etYXlVHn46cNh27o=w1299-h866-s-no?authuser=0)
-# Elvin Kyungu
+## Hello 👋
+### I'm Leonel Ngoya ( <a href="https://leonelngoya.com" target="_blank">LN</a> )
 
-Bonjour 😊!
+- 🌴 I am a <b>Frontend Engineer</b> and <b><a href="https://www.awwwards.com/jury-member/ln-dev" target="_blank">Awwwards Young Jury</a></b>
+- 📫 Find out more about me <a href="https://lndev.me" target="_blank">HERE</a>
 
-Je suis un développeur web front-end avec un baccalauréat à la faculté des sciences au département d'informatique de l'Université de Lubumbashi en République Démocratique du Congo.
+### Wakatime
+[![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
 
-J'ai 3 ans d'expérience dans le développement de sites web.
-
-J'ai de l'expérience dans le développement web front-end avec des technologies web utilisant HTML, CSS, Javascript, Tailwind CSS et Vue js, Webflow et WordPress.
-
-J'ai également de l'expérience dans le développement web front-end créatif (conception de modèles plus complexes comme ceux d'airbnb) et dans l'intégration de modèles plus fluides.
-
-J'ai conçu et développé des contrôles utilisateur, des interfaces utilisateur complètement propres.
-
-Lorsque je travaille sur un nouveau projet, j'aime discuter avec mes clients afin de bien comprendre leurs besoins et leur vision du projet.
-
-J'ai hâte de travailler avec vous bientôt 😊.
-
-# Technologies
-
-J'utilise les technos suivantes :
-
-<p align="left">  
- <a href="https://www.w3schools.com/css/" target="_blank"> 
-  
- </a> 
- <a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- </a>  
- <a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>  </a>
+<p align="left"> 
+    <a href="https://twitter.com/ln_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ln_dev7" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lndev" height="30" width="40" /></a>
+  <a href="https://instagram.com/ln_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ln_dev7" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/lndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lndev" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ln-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" />
 </p>
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  </p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/lndev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lndev" /></a></p><br><br>
