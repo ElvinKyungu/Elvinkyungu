@@ -48,6 +48,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-kyungu/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=fr)
 [![Discord](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Discord](https://img.shields.io/badge/-INSTAGRAM-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/elvin.kyungu/)
+[![Discord](https://img.shields.io/badge/-INSTAGRAM-5865F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elvin.kyungu/)
 
 <br><br>
