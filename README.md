@@ -1,7 +1,7 @@
 
 # hello everyone  👋
 ## I'm Elvin Kyungu <br><br>
-<img src="https://github.com/ElvinKyungu/Elvinkyungu/assets/85198945/f8c6be80-88e8-41f5-82f9-55f94804ae3c" alt="css3" /> <br><br>
+<img src="https://github.com/ElvinKyungu/Elvinkyungu/assets/85198945/f8c6be80-88e8-41f5-82f9-55f94804ae3c" alt="Elvin Kyungu" width="100%" height="80%" /> <br><br>
 - 🌴 I am a <b>frontend engineer</b>
 - 🌴 I am the first <b><a href="https://gdsc.community.dev/university-of-lubumbashi/" target="_blank">Google DSC Lead at the University of Lubumbashi</a></b>
 - 📫 I am also the President Coordinator of the <b><a href="https://www.linkedin.com/company/cercle-scientifique-math-info/mycompany/" target="_blank"> Cercle Scientifique community</a></b>
