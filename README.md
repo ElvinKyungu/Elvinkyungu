@@ -40,7 +40,7 @@
   <a href="https://www.buymeacoffee.com/elvinkyungu"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lndev" />
   </a>
-</p>
+</p><br>
 
 <h3 align="left">How to reach me :</h3>
 
