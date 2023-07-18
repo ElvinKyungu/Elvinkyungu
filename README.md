@@ -5,6 +5,18 @@
 - 🌴 I am the first <b><a href="https://gdsc.community.dev/university-of-lubumbashi/" target="_blank">Google DSC Lead at the University of Lubumbashi</a></b>
 - 📫 I am also the President Coordinator of the <b><a href="https://www.linkedin.com/company/cercle-scientifique-math-info/mycompany/" target="_blank"> Cercle Scientifique community</a></b>
 
+<h3>A little summary won't hurt 😊 :</h3>
+<p>
+  I'm a front-end web developer with a bachelor's degree from the Faculty of Science in the Department of Computer Science at the University of Lubumbashi     in the Democratic Republic of Congo.
+  I have 4 years of experience in web development.
+
+  I have experience in front-end web development with web technologies using HTML, CSS, Javascript, Tailwind CSS, UnoCSS, Vue js and Nuxt js.
+  I also have experience in creative front-end web development and in integrating more fluid templates.
+  I've designed and developed user controls, completely clean user interfaces.
+  When I'm working on a new project, I like to talk to my customers to fully understand their needs and their vision of the project.
+  I look forward to working with you soon 😊.
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
