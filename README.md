@@ -35,13 +35,14 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="nuxtjs" width="40" height="40"/> 
   </a>
 </p>
-<h3 align="left">Support:</h3>
+<h3 align="left">Support :</h3>
 <p>
   <a href="https://www.buymeacoffee.com/elvinkyungu"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lndev" />
   </a>
 </p>
-## 📫 How to reach me
+
+<h3 align="left">How to reach me :</h3>
 
 <br>[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvinkyungu.75@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-kyungu/)
