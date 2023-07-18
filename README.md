@@ -36,4 +36,16 @@
   </a>
 </p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/elvinkyungu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lndev" /></a></p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/elvinkyungu"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lndev" />
+  </a>
+</p>
+## 📫 How to reach me
+
+<br>[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvinkyungu.75@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-kyungu/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=fr)
+[![Discord](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
+<br><br>
