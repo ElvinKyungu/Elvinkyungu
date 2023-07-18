@@ -1,8 +1,8 @@
-## Hello 👋
-### I'm Leonel Ngoya ( <a href="https://leonelngoya.com" target="_blank">LN</a> )
+## hello everyone  👋
+### I'm Elvin Kyungu
 
-- 🌴 I am a <b>Frontend Engineer</b> and <b><a href="https://www.awwwards.com/jury-member/ln-dev" target="_blank">Awwwards Young Jury</a></b>
-- 📫 Find out more about me <a href="https://lndev.me" target="_blank">HERE</a>
+- 🌴 I am a <b>frontend engineer</b> and the first <b><a href="https://www.awwwards.com/jury-member/ln-dev" target="_blank">Google DSC Lead at the University of Lubumbashi</a></b>
+- 📫 I am also the President Coordinator of the <b><a href="[https://www.awwwards.com/jury-member/ln-dev](https://www.linkedin.com/company/cercle-scientifique-math-info/mycompany/" target="_blank">Cercle Scientifique community</a></b>
 
 ### Wakatime
 [![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
