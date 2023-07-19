@@ -1,7 +1,6 @@
 
 # hello everyone  👋
 ## I'm Elvin Kyungu <br><br>
-<br>
 - 🌴 I am a <b>frontend engineer</b>
 - 🌴 I am the first <b><a href="https://gdsc.community.dev/university-of-lubumbashi/" target="_blank">Google DSC Lead at the University of Lubumbashi</a></b>
 - 📫 I am also the President Coordinator of the <b><a href="https://www.linkedin.com/company/cercle-scientifique-math-info/mycompany/" target="_blank"> Cercle Scientifique community</a></b>
