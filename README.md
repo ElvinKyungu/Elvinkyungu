@@ -1,4 +1,3 @@
-h
 # hello everyone  👋
 ## I'm Elvin Kyungu <br><br>
 - 🌴 I am a <b>frontend engineer</b>
