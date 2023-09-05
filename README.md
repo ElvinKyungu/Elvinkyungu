@@ -6,7 +6,7 @@
 
 <h3>A little summary won't hurt 😊 :</h3>
 <p>
-  I'm a front-end web developer with a bachelor's degree from the Faculty of Science in the Department of Computer Science at the University of Lubumbashi     in the Democratic Republic of Congo.
+  I'm a front-end web developer with a bachelor's degree from the Faculty of Science in the Department of Computer Science at the University of Lubumbashi     in the Democratic Republic of Congo
   I have 4 years of experience in web development
 
   I have experience in front-end web development with web technologies using HTML, CSS, Javascript, Tailwind CSS, UnoCSS, Vue js and Nuxt js.
