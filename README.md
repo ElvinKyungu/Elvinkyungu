@@ -13,7 +13,7 @@
   I also have experience in creative front-end web development and in integrating more fluid templates.
   I've designed and developed user controls, completely clean user interfaces.
   When I'm working on a new project, I like to talk to my customers to fully understand their needs and their vision of the project.
-  I look forward to working with you soon 😊.
+  I look forward to working with you soon 😊
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
