@@ -1,6 +1,5 @@
 # Hello everyone  👋
-info/mycompany/" target="_blank"> Cercle Scientifique community</a></b>
-<h3>A little summary won't hurt 😊 :</h3>
+<h3>A little summary won't hurt :) </h3>
 <p>
   With three years of web development experience, I’m specialized in crafting interactive websites that captivated audiences. My goal is straightforward: to deliver unique and memorable user experiences that exceed client expectations.
 </p>
