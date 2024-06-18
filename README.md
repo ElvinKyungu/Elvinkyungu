@@ -1,9 +1,5 @@
 # Hello everyone  👋
-## I'm Elvin Kyungu <br><br>
-- 🌴 I am a <b>frontend engineer</b>
-- 🌴 I am the first <b><a href="https://gdsc.community.dev/university-of-lubumbashi/" target="_blank">Google DSC Lead at the University of Lubumbashi</a></b>
-- 📫 I am also the President Coordinator of the <b><a href="https://www.linkedin.com/company/cercle-scientifique-math-info/mycompany/" target="_blank"> Cercle Scientifique community</a></b>
-
+info/mycompany/" target="_blank"> Cercle Scientifique community</a></b>
 <h3>A little summary won't hurt 😊 :</h3>
 <p>
   With three years of web development experience, I’m specialized in crafting interactive websites that captivated audiences. My goal is straightforward: to deliver unique and memorable user experiences that exceed client expectations.
