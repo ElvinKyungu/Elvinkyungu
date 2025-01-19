@@ -1,7 +1,7 @@
 # Hello everyone  👋
 <h3>A little summary won't hurt :) </h3>
 <p>
-  With three years of web development experience, I’m specialized in crafting interactive websites that captivated audiences. My goal is straightforward: to deliver unique and memorable user experiences that exceed client expectations.
+  With four years of web development experience, I’m specialized in crafting interactive websites that captivated audiences. My goal is straightforward: to deliver unique and memorable user experiences that exceed client expectations.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,9 +19,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>   </a> 
