@@ -1,7 +1,7 @@
 # Hello everyone  👋
 <h3>A little summary won't hurt :) </h3>
 <p>
-  With four years of web development experience, I’m specialized in crafting interactive websites that captivated audiences. My goal is straightforward: to deliver unique and memorable user experiences that exceed client expectations.
+  With four years of web development experience, I’m specialized in crafting interactive websites that captivated audiences. My goal is straightforward: to deliver unique and memorable user experiences that exceed client expectations
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
