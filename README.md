@@ -2,7 +2,7 @@
 
 ## About Me
 
-With **four years of web development experience**, I specialize in crafting interactive websites that captivate audiences. My mission is simple yet impactful: to deliver **unique and memorable user experiences** that go beyond client expectations.
+With **four years of frontend web development experience**, I specialize in crafting interactive websites that captivate audiences. My mission is simple yet impactful: to deliver **unique and memorable user experiences** that go beyond client expectations.
 
 ---
 
