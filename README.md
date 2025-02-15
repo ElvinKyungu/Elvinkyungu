@@ -74,7 +74,7 @@ With **four years of frontend web development experience**, I specialize in craf
   <a href="https://discord.com/channels/@me"> 
     <img src="https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.instagram.com/elvin.kyungu/"> 
+  <a href="https://www.instagram.com/elvin.code/"> 
     <img src="https://img.shields.io/badge/-INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
