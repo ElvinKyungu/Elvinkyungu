@@ -68,7 +68,7 @@ With **four years of frontend web development experience**, I specialize in craf
   <a href="https://www.linkedin.com/in/elvincode/"> 
     <img src="https://img.shields.io/badge/-LINKEDIN-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/home?lang=fr"> 
+  <a href="https://x.com/ElvinKyungu"> 
     <img src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://discord.com/channels/@me"> 
