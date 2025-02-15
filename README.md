@@ -65,7 +65,7 @@ With **four years of frontend web development experience**, I specialize in craf
   <a href="mailto:elvinkyungu.75@gmail.com"> 
     <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/elvin-kyungu/"> 
+  <a href="https://www.linkedin.com/in/elvincode/"> 
     <img src="https://img.shields.io/badge/-LINKEDIN-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/home?lang=fr"> 
