@@ -81,4 +81,4 @@ With **four years of frontend web development experience**, I specialize in craf
 ## 📝 Fun Fact
 > “I don’t just write code; I design experiences!”
 
-Let’s build something amazing together 🚀m
+Let’s build something amazing together 🚀
