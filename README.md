@@ -6,7 +6,7 @@ With **four years of frontend web development experience**, I specialize in craf
 
 ---
 
-## 🔧 Languages and Tools
+## Languages and Tools
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
